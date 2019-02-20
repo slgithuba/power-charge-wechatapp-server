@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.aiway.wechatapp.server",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "microservice",
+    "baseName": "wechatappServer",
+    "packageName": "com.aiway.wechatapp.server",
+    "packageFolder": "com/aiway/wechatapp/server",
+    "serverPort": "8081",
+    "authenticationType": "uaa",
+    "uaaBaseName": "uaa",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZWE1ZTJkZDAwOTRjNmYyOTk2MTdhOWYzZjRhM2VmZTQ0ZTVjMDNiMWJmOTgwMWIxNWZiNDQ1NWU5NGUwMmIwZGVhZjljMzM2MTQyYjkzYWE3NDZjYjkzYzdmMGVkOTM0ZjY3ZDk3NzM5M2U3MTk1Y2ExZWRjNTA0Y2Y5NGZiOTQ=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "zh-cn",
+      "en"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
